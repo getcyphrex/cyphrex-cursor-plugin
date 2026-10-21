@@ -1,0 +1,8 @@
+---
+description: Don't trust the agent. Verify it. Check risky actions with Cyphrex before they run.
+alwaysApply: true
+---
+
+Don't trust the agent. Verify it.
+
+Before any action that touches secrets, money, production data, deploys, or an external send, check it with the Cyphrex MCP tools and record it there. If the check is not allowed, do not do the action.
