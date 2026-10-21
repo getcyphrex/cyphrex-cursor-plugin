@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "cyphrex": {
+      "url": "https://mcp.cyphrex.io/mcp",
+      "headers": {
+        "Authorization": "Bearer ${CYPHREX_API_KEY}"
+      }
+    }
+  }
+}
